@@ -1,18 +1,4 @@
-<img width="79" height="43" alt="image" src="https://github.com/user-attachments/assets/42aff6df-4b18-4d8f-ba0d-1a58b6c22c70" /># your_team_name
-
-Hello! This is a template repository in which you can upload your deliverables for the CHORAS ASSA Workshop. The deliverables are
-
-1. 🎧 Impulse response from DE (.wav)
-
-2. 📊 T30 results from DE in (.csv)
-
-3. 5️⃣ Frequencies of first 5 modes from DG in (.csv)
-
-4. (Optional) 📊 T30 results from DG (up to the 250Hz band) in (.csv) as calculated with pyfar
-
-5. 📃 This readme filled with the correct information :)
-
-_Feel free to remove this section when you're done :)_
+<img width="79" height="43" alt="image" src="https://www.google.com/search?q=aucoustic&client=firefox-b-d&sca_esv=0ee4db77abfc07c6&udm=2&biw=1536&bih=702&sxsrf=AE3TifMmJ_x_rcjZmY8LsS3wKe0kFq3yag%3A1762510202104&ei=esUNaYyPBt2Ai-gPypah6Qk&ved=0ahUKEwiMtImU5t-QAxVdwAIHHUpLKJ0Q4dUDCBI&uact=5&oq=aucoustic&gs_lp=Egtnd3Mtd2l6LWltZyIJYXVjb3VzdGljMgYQABgHGB4yBhAAGAcYHjIGEAAYBxgeMgwQABiABBixAxgKGAsyDBAAGIAEGLEDGAoYCzIMEAAYgAQYsQMYChgLMgkQABiABBgKGAsyCRAAGIAEGAoYCzIIEAAYBxgKGB4yCRAAGIAEGAoYC0jiEVDKCli7D3ACeACQAQCYAUegAYQBqgEBMrgBA8gBAPgBAZgCBKACrAHCAg0QABiABBixAxhDGIoFwgIIEAAYgAQYsQOYAwCIBgGSBwE0oAfcDbIHATK4B5UBwgcFMi0xLjPIBx8&sclient=gws-wiz-img#vhid=3ar-Yem-wgkJfM&vssid=mosaic" /># Judith & Tim
 
 ## Members
 
@@ -31,10 +17,6 @@ This is where you can describe how you tackled the task
 - etc.
 
 ## Input settings
-
-For reproducibility of your results we would like to know what inputs you used to complete your simulations.
-
-
 Diffusion Equation method
 - Simulation length: EDT
 - Impulse response length: 0.5 s
@@ -44,8 +26,8 @@ Diffusion Equation method
 
 Discontinuous Galerkin method
 - We duplicated the simulation
-- 
-
+- Freq upper limit
+- Air density: 1.214 kg/m^3
 
 ### Geometry
 
@@ -53,13 +35,13 @@ Room2215_simple
 
 ### Source position
 
-- x:4.5
-- y:3
+- x:10
+- y:6
 - z:1.5
 
 ### Receiver position
 
-- x:4
+- x:3
 - y:4.5
 - z:1.2
 
@@ -69,15 +51,17 @@ If you created materials you can list them here with their absorption coefficien
 
 - _material name_: 63 Hz, 125 Hz, 250 Hz, 500 Hz, 1000 Hz, 2000 Hz, 4000 Hz
 
-    _Example:_
-
 - My new material, 0.1, 0.2, 0.3, 0.4, 0.5, 0.1, 0.1
 
 Material properties:
 
-- Surface [1]: _material name_
-- Surface [6]: _material name_
-- Rest of the surfaces: _material name_
+- Surface [1]: wood
+- Surface [2-7]: single pane glass
+- Surface [8]: wood
+- Surface [9-11]: pile and felted wood rug
+- Surface [12]: acoustic ceiling (rockwool)
+- Surface [13]: corfloor tiles
+
 
 ### Settings
 
