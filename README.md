@@ -23,7 +23,7 @@ Diffusion Equation method
 
 Discontinuous Galerkin method
 - We duplicated the simulation
-- Freq upper limit
+- Freq upper limit: 200 Hz
 - Air density: 1.214 kg/m^3
 
 ### Geometry
