@@ -87,7 +87,7 @@ You can paste the JSON here by clicking on the Open as JSON button in the Settin
 | 31,5     |-            | 0,434 |
 |63        |-            | 0,692 |
 |125	     |1.23         | 0,925 |	
-|250	     |0.89         | 0,446 |
+|250	     |0.89         | -     |
 |500       |0.69         | -     |
 |1000      |0.59         | -     |
 |2000      |0.52         | -     |
