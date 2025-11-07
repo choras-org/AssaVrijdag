@@ -83,10 +83,10 @@ You can paste the JSON here by clicking on the Open as JSON button in the Settin
 ```
 ## T30 DE
 Freq [Hz]	 Avg	
-31,5	     0,434	
-63	       0,692	
-125	       0,925	
-250	       0,446
+| 31,5 | 0,434 |
+|63    | 0,692 |
+|125	 | 0,925 |	
+|250	 | 0,446 |
 
 ## Room Modes
 - 35 HZ
