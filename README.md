@@ -86,7 +86,13 @@ You can paste the JSON here by clicking on the Open as JSON button in the Settin
 - DE
 
 ```json
-<DE settings as JSON>
+{
+  "sim_len_type": "edt",
+  "de_ir_length": 0.5,
+  "de_c0": 343,
+  "edt": 35,
+  "de_lc": 3
+}
 ```
 
 - DG
