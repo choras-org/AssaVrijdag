@@ -82,7 +82,8 @@ You can paste the JSON here by clicking on the Open as JSON button in the Settin
 <DG settings as JSON>
 ```
 ## T30 DE
-Freq [Hz]	 Avg	
+|Freq [Hz] |	 Avg |
+|-----|-----|
 | 31,5 | 0,434 |
 |63    | 0,692 |
 |125	 | 0,925 |	
