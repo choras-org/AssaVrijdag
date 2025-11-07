@@ -61,7 +61,15 @@ Room2215_simple
 
 - DG
 ```json
-<DG settings as JSON>
+{
+  "dg_freq_upper_limit": 200,
+  "dg_c0": 343,
+  "dg_rho0": 1.213,
+  "dg_ir_length": 1,
+  "dg_poly_order": 4,
+  "dg_ppw": 3,
+  "dg_cfl": 1
+}
 ```
 
 ## T30 DE and DG
