@@ -1,9 +1,6 @@
-<img width="77.2" height="79" alt="image" src="https://github.com/choras-org/AssaVrijdag/blob/main/aucustic.webp" /># Judith & Tim
+<img width="77.2" height="79" alt="image" src="https://github.com/choras-org/AssaVrijdag/blob/main/aucustic.webp" />
 
-## Members
-
-- Tim
-- Judith
+# Judith & Tim
 
 ## Process
 
