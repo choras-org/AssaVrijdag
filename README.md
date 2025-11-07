@@ -1,4 +1,4 @@
-<img width="79" height="43" alt="image" src="https://www.google.com/search?q=aucoustic&client=firefox-b-d&sca_esv=0ee4db77abfc07c6&udm=2&biw=1536&bih=702&sxsrf=AE3TifMmJ_x_rcjZmY8LsS3wKe0kFq3yag%3A1762510202104&ei=esUNaYyPBt2Ai-gPypah6Qk&ved=0ahUKEwiMtImU5t-QAxVdwAIHHUpLKJ0Q4dUDCBI&uact=5&oq=aucoustic&gs_lp=Egtnd3Mtd2l6LWltZyIJYXVjb3VzdGljMgYQABgHGB4yBhAAGAcYHjIGEAAYBxgeMgwQABiABBixAxgKGAsyDBAAGIAEGLEDGAoYCzIMEAAYgAQYsQMYChgLMgkQABiABBgKGAsyCRAAGIAEGAoYCzIIEAAYBxgKGB4yCRAAGIAEGAoYC0jiEVDKCli7D3ACeACQAQCYAUegAYQBqgEBMrgBA8gBAPgBAZgCBKACrAHCAg0QABiABBixAxhDGIoFwgIIEAAYgAQYsQOYAwCIBgGSBwE0oAfcDbIHATK4B5UBwgcFMi0xLjPIBx8&sclient=gws-wiz-img#vhid=3ar-Yem-wgkJfM&vssid=mosaic" /># Judith & Tim
+<img width="79" height="43" alt="image" src="https://github.com/choras-org/AssaVrijdag/blob/main/aucustic.webp" /># Judith & Tim
 
 ## Members
 
