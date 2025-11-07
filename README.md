@@ -82,19 +82,20 @@ You can paste the JSON here by clicking on the Open as JSON button in the Settin
 <DG settings as JSON>
 ```
 
+## Room Modes
+- 35 HZ
+- 46 Hz
+- 62 Hz
+- 77 Hz
+- 99 Hz
+
 ## 3 proposals for improving CHORAS
-
-Here you can list your 3 proposals for improving CHORAS. Out of the box ideas are welcome!
-
 - Proposal 1: Make clear the which axes are which. For example, when you hover over an axis, you see that it is the x-axis.
 - Proposal 2: Simulation length could use some more information.
 - Proposal 3: The tab says "app" with a lightning icon. Can you make it your own logo?
 - Proposal 4: The export of the "parameters_simulation_1.csv" does not include the frequency bands.
 
 ## Functionality issues
-
-Please list any functionality issues you found:
-
 - Issue 1: When positioning the source/receiver the value can sometimes shoot back to the previous value.
 - Issue 2
 - ...
