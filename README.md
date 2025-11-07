@@ -32,26 +32,13 @@ Room2215_simple
 
 ### Source position
 
-- x:10
-- y:6
-- z:1.5
+- x:10, y:6, z:1.5
 
 ### Receiver position
 
-- x:3
-- y:4.5
-- z:1.2
+- x:3, y:4.5, z:1.2
 
-### Surfaces
-
-If you created materials you can list them here with their absorption coefficients:
-
-- _material name_: 63 Hz, 125 Hz, 250 Hz, 500 Hz, 1000 Hz, 2000 Hz, 4000 Hz
-
-- My new material, 0.1, 0.2, 0.3, 0.4, 0.5, 0.1, 0.1
-
-Material properties:
-
+### Surfaces: Material properties
 - Surface [1]: wood
 - Surface [2-7]: single pane glass
 - Surface [8]: wood
@@ -61,11 +48,7 @@ Material properties:
 
 
 ### Settings
-
-You can paste the JSON here by clicking on the Open as JSON button in the Settings tab.
-
 - DE
-
 ```json
 {
   "sim_len_type": "edt",
@@ -77,10 +60,10 @@ You can paste the JSON here by clicking on the Open as JSON button in the Settin
 ```
 
 - DG
-
 ```json
 <DG settings as JSON>
 ```
+
 ## T30 DE and DG
 |Freq [Hz] |	DE T30 [s] | DG T30 [s]|
 |-----     |-----        |----|
@@ -91,7 +74,6 @@ You can paste the JSON here by clicking on the Open as JSON button in the Settin
 |500       |0.69         | -     |
 |1000      |0.59         | -     |
 |2000      |0.52         | -     |
-
 
 ## Room Modes
 - 35 HZ
@@ -116,7 +98,7 @@ You can paste the JSON here by clicking on the Open as JSON button in the Settin
 
 Below you can tell us your feedback or describe your experience of working with CHORAS today! Please start every bullet with **I like..** or **I wish/wonder..**
 
-- I like ..
+- We like the GUI, it is very intuitive.
 - I wish ..
 - I wonder ..
 - ..
