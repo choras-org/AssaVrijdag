@@ -81,6 +81,12 @@ You can paste the JSON here by clicking on the Open as JSON button in the Settin
 ```json
 <DG settings as JSON>
 ```
+## T30 DE
+Freq [Hz]	 Avg	
+31,5	     0,434	
+63	       0,692	
+125	       0,925	
+250	       0,446
 
 ## Room Modes
 - 35 HZ
@@ -94,6 +100,7 @@ You can paste the JSON here by clicking on the Open as JSON button in the Settin
 - Proposal 2: Simulation length could use some more information.
 - Proposal 3: The tab says "app" with a lightning icon. Can you make it your own logo?
 - Proposal 4: The export of the "parameters_simulation_1.csv" does not include the frequency bands.
+- Proposal 5: Choose the third octave bands in the results as well.
 
 ## Functionality issues
 - Issue 1: When positioning the source/receiver the value can sometimes shoot back to the previous value.
