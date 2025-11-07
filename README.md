@@ -81,13 +81,17 @@ You can paste the JSON here by clicking on the Open as JSON button in the Settin
 ```json
 <DG settings as JSON>
 ```
-## T30 DE
-|Freq [Hz] |	 Avg |
-|-----|-----|
-| 31,5 | 0,434 |
-|63    | 0,692 |
-|125	 | 0,925 |	
-|250	 | 0,446 |
+## T30 DE and DG
+|Freq [Hz] |	DE T30 [s] | DG T30 [s]|
+|-----     |-----        |----|
+| 31,5     |-            | 0,434 |
+|63        |-            | 0,692 |
+|125	     |1.23         | 0,925 |	
+|250	     |0.89         | 0,446 |
+|500       |0.69         | -     |
+|1000      |0.59         | -     |
+|2000      |0.52         | -     |
+
 
 ## Room Modes
 - 35 HZ
