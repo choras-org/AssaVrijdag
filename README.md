@@ -1,4 +1,4 @@
-<img width="77.2" height="79" alt="image" src="https://github.com/choras-org/AssaVrijdag/blob/main/aucustic.webp" />
+<img width="11.58" height="11.85" alt="image" src="https://github.com/choras-org/AssaVrijdag/blob/main/aucustic.webp" />
 
 # Judith & Tim
 
