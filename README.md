@@ -91,7 +91,7 @@ Room2215_simple
 
 ## Functionality issues
 - Issue 1: When positioning the source/receiver the value can sometimes shoot back to the previous value.
-- Issue 2
+- Issue 2: When the input settings are changed after the first simulation run, we can still enter the results page. However, then it is not clear with which settings the results come from. (The JSON file is also changed)
 - ...
 
 ## Feedback / experience
